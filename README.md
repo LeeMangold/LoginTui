@@ -8,3 +8,6 @@ This is a simple ssh login banner UI. Rather than display text that just passes 
  * yum install dialog (RHEL / CentOS)
 
 **Copy the script to your /etc/ssh/sshrc file** *(This probably doesn't exist yet)*
+
+![alt text](https://github.com/LeeMangold/LoginTui/blob/main/Screenshot.png?raw=true)
+
